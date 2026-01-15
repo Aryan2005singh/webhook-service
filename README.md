@@ -361,7 +361,7 @@ make lint
 
 **Development Environment:**
 - Editor: VSCode with Python extension
-- AI Assistant: Claude (Anthropic) for code generation and review
+- AI Assistant: Claude and ChatGpt
 - Testing: pytest with FastAPI TestClient
 - Container: Docker + Docker Compose for deployment
 
